@@ -1,4 +1,4 @@
-package main.java.restcloud.rest;
+package es.cesga.hadoop.restcloud.rest;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,16 +8,16 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-import main.java.restcloud.Constants;
-import main.java.restcloud.DataObtainerThread;
-import main.java.restcloud.SSHKeyAddThread;
-import main.java.restcloud.Utils;
-import main.java.restcloud.db.DBOperations;
-import main.java.restcloud.domain.ClusterInfo;
-import main.java.restcloud.domain.ClusterList;
-import main.java.restcloud.domain.DataNode;
-import main.java.restcloud.domain.HadoopStartRequest;
-import main.java.restcloud.domain.Message;
+import es.cesga.hadoop.restcloud.Constants;
+import es.cesga.hadoop.restcloud.DataObtainerThread;
+import es.cesga.hadoop.restcloud.SSHKeyAddThread;
+import es.cesga.hadoop.restcloud.Utils;
+import es.cesga.hadoop.restcloud.db.DBOperations;
+import es.cesga.hadoop.restcloud.domain.ClusterInfo;
+import es.cesga.hadoop.restcloud.domain.ClusterList;
+import es.cesga.hadoop.restcloud.domain.DataNode;
+import es.cesga.hadoop.restcloud.domain.HadoopStartRequest;
+import es.cesga.hadoop.restcloud.domain.Message;
 import restx.annotations.DELETE;
 import restx.annotations.GET;
 import restx.annotations.POST;

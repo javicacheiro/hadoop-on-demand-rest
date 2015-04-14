@@ -1,7 +1,7 @@
-package main.java.restcloud.rest;
+package es.cesga.hadoop.restcloud.rest;
 
-import main.java.restcloud.domain.Message;
-import main.java.restcloud.Roles;
+import es.cesga.hadoop.restcloud.domain.Message;
+import es.cesga.hadoop.restcloud.Roles;
 
 import org.joda.time.DateTime;
 

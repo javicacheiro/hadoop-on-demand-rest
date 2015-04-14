@@ -1,4 +1,4 @@
-package main.java.restcloud.db;
+package es.cesga.hadoop.restcloud.db;
 
 import java.math.BigInteger;
 import java.sql.Connection;
@@ -8,14 +8,14 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
 
-import main.java.restcloud.domain.ClusterList;
-import main.java.restcloud.domain.HadoopCluster;
-import main.java.restcloud.domain.HadoopStartRequest;
-import main.java.restcloud.domain.IP;
-import main.java.restcloud.domain.Login;
-import main.java.restcloud.domain.SSHKey;
-import main.java.restcloud.domain.SSHKeys;
-import main.java.restcloud.domain.VirtualMachine;
+import es.cesga.hadoop.restcloud.domain.ClusterList;
+import es.cesga.hadoop.restcloud.domain.HadoopCluster;
+import es.cesga.hadoop.restcloud.domain.HadoopStartRequest;
+import es.cesga.hadoop.restcloud.domain.IP;
+import es.cesga.hadoop.restcloud.domain.Login;
+import es.cesga.hadoop.restcloud.domain.SSHKey;
+import es.cesga.hadoop.restcloud.domain.SSHKeys;
+import es.cesga.hadoop.restcloud.domain.VirtualMachine;
 
 public class DBOperations {
 

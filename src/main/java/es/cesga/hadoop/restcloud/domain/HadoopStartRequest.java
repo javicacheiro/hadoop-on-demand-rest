@@ -1,7 +1,7 @@
-package main.java.restcloud.domain;
+package es.cesga.hadoop.restcloud.domain;
 
-import main.java.restcloud.Constants;
-import main.java.restcloud.db.DBOperations;
+import es.cesga.hadoop.restcloud.Constants;
+import es.cesga.hadoop.restcloud.db.DBOperations;
 
 /**
  * HadoopStartRequest 

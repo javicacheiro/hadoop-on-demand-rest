@@ -1,4 +1,4 @@
-package main.java.restcloud;
+package es.cesga.hadoop.restcloud;
 
 import com.google.common.base.Optional;
 import restx.server.WebServer;

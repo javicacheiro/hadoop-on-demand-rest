@@ -1,11 +1,11 @@
-package main.java.restcloud.rest;
+package es.cesga.hadoop.restcloud.rest;
 
 import java.io.File;
 import java.io.PrintWriter;
 
-import main.java.restcloud.db.DBOperations;
-import main.java.restcloud.domain.Login;
-import main.java.restcloud.domain.Message;
+import es.cesga.hadoop.restcloud.db.DBOperations;
+import es.cesga.hadoop.restcloud.domain.Login;
+import es.cesga.hadoop.restcloud.domain.Message;
 
 import org.joda.time.DateTime;
 

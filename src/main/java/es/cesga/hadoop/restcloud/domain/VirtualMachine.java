@@ -1,9 +1,9 @@
-package main.java.restcloud.domain;
+package es.cesga.hadoop.restcloud.domain;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-import main.java.restcloud.Utils;
+import es.cesga.hadoop.restcloud.Utils;
 
 public class VirtualMachine {
 	// ** CONSTANTS ** //

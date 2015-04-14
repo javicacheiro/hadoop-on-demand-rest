@@ -1,6 +1,6 @@
-package main.java.restcloud;
+package es.cesga.hadoop.restcloud;
 
-import main.java.restcloud.db.DBOperations;
+import es.cesga.hadoop.restcloud.db.DBOperations;
 
 /**
  * This thread takes care of synchronizing the database keys with the active

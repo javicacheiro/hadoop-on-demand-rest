@@ -1,4 +1,4 @@
-package main.java.restcloud;
+package es.cesga.hadoop.restcloud;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

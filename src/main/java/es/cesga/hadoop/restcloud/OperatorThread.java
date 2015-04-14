@@ -1,10 +1,10 @@
-package main.java.restcloud;
+package es.cesga.hadoop.restcloud;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-import main.java.restcloud.db.DBOperations;
+import es.cesga.hadoop.restcloud.db.DBOperations;
 
 public abstract class OperatorThread extends Thread{
 	// ** ATTRIBUTES ** //

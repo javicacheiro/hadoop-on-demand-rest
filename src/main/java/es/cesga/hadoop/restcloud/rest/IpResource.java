@@ -1,12 +1,12 @@
-package main.java.restcloud.rest;
+package es.cesga.hadoop.restcloud.rest;
 
-import main.java.restcloud.IPAddThread;
-import main.java.restcloud.IPDelThread;
-import main.java.restcloud.db.DBOperations;
-import main.java.restcloud.domain.IP;
-import main.java.restcloud.domain.IPs;
-import main.java.restcloud.domain.Message;
-import main.java.restcloud.domain.SSHKeys;
+import es.cesga.hadoop.restcloud.IPAddThread;
+import es.cesga.hadoop.restcloud.IPDelThread;
+import es.cesga.hadoop.restcloud.db.DBOperations;
+import es.cesga.hadoop.restcloud.domain.IP;
+import es.cesga.hadoop.restcloud.domain.IPs;
+import es.cesga.hadoop.restcloud.domain.Message;
+import es.cesga.hadoop.restcloud.domain.SSHKeys;
 import restx.annotations.DELETE;
 import restx.annotations.GET;
 import restx.annotations.POST;

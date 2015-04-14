@@ -1,8 +1,8 @@
-package main.java.restcloud.domain;
+package es.cesga.hadoop.restcloud.domain;
 
 import java.util.ArrayList;
 
-import main.java.restcloud.db.DBOperations;
+import es.cesga.hadoop.restcloud.db.DBOperations;
 
 public class HadoopCluster {
 	// ** CONSTANTS ** //

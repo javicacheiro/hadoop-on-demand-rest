@@ -1,4 +1,4 @@
-package main.java.restcloud.db;
+package es.cesga.hadoop.restcloud.db;
 
 public class DBData {
 	public final static String DBHOST = "127.0.0.1";

@@ -1,4 +1,4 @@
-package main.java.restcloud;
+package es.cesga.hadoop.restcloud;
 
 import restx.config.ConfigLoader;
 import restx.config.ConfigSupplier;

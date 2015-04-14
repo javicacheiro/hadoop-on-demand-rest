@@ -1,12 +1,12 @@
-package main.java.restcloud;
+package es.cesga.hadoop.restcloud;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-import main.java.restcloud.db.DBOperations;
-import main.java.restcloud.domain.ClusterList;
-import main.java.restcloud.domain.HadoopStartRequest;
+import es.cesga.hadoop.restcloud.db.DBOperations;
+import es.cesga.hadoop.restcloud.domain.ClusterList;
+import es.cesga.hadoop.restcloud.domain.HadoopStartRequest;
 
 public class DataObtainerThread extends Thread {
 	// ** ATTRIBUTES ** //

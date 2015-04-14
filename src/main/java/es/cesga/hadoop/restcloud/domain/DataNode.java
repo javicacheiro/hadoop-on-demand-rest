@@ -1,4 +1,4 @@
-package main.java.restcloud.domain;
+package es.cesga.hadoop.restcloud.domain;
 
 import java.util.GregorianCalendar;
 
